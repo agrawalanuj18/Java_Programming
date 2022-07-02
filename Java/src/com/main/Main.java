@@ -13,5 +13,14 @@ public class Main {
         System.out.println(firstName  + lastName + age);
         System.out.println(fullName);
 
+        String fullName2 = fullName.replace('o','a');
+        System.out.println(fullName2);
+        System.out.println(fullName2.length());
+        System.out.println(fullName.toLowerCase());
+        System.out.println(fullName.toUpperCase());
+        System.out.println(fullName.charAt(3));
+
+
+
     }
 }
