@@ -14,9 +14,19 @@ public class p6 {
         System.out.println(name1.charAt(2));
 
         // Length
-        
+        System.out.println(name1.length()); 
 
+        // replace method
+        // ishhe apne orignial String me change nhi hua h 
+        // humhe new String mili h 
+        // String immutable hoti h 
 
+        String name4 = name1.replace('k', 'b');
+        System.out.println(name4);
+
+        // Substring
+        // Yha pe 0 postion toh include h but 3 postion nhi
+        System.out.println(name1.substring(0, 3));
 
     }
 }
