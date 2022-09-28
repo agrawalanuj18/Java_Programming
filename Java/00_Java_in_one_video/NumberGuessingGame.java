@@ -21,7 +21,9 @@ public class NumberGuessingGame {
                 System.out.println("Your Guess Number is High");
             }
         } while (guessNum >= 0);
+
         System.out.print("My number was: ");
+
         System.out.println(ans);
     }
 }
