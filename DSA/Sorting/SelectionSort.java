@@ -1,6 +1,6 @@
 public class SelectionSort {
     public static void main(String[] args) {
-        System.out.println("Learning Bubble Sort");
+        System.out.println("Learning Selection Sort");
 
         int arr[] = { 7, 8, 3, 1, 2 };
 
