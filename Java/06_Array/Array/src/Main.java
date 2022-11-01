@@ -5,9 +5,9 @@ public class Main {
         // Syntax
         // datatype[] variacle_name = new datatypes
         int[] arr = {233, 333, 222, 222, 222};
-        System.out.print("[" );
+        System.out.print("[");
         for (int i = 0; i < arr.length; i++) {
-            System.out.print(" " + arr[i] + "," );
+            System.out.print(" " + arr[i] + ",");
         }
         System.out.print("]");
     }
