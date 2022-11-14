@@ -1,7 +1,7 @@
 public class Method_function {
 
     public static void printJava() {
-        System.out.println("Hello Function");
+        System.out.println("Namaste Function");
     }
 
     public static void printName(String name) {
@@ -12,7 +12,6 @@ public class Method_function {
         int Sum = a + b;
         System.out.println(Sum);
     }
-
     public static void main(String[] args) {
 
         // Methods/Function in Java
