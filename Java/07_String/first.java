@@ -8,9 +8,9 @@ public class first {
         System.out.println(about);
 
         Scanner sc = new Scanner(System.in);
-        Scanner ac = new Scanner(System.in);
         String name2 = sc.next(); // for Single word
-        String about2 = ac.nextLine(); // for the sentence
+        String about2 = sc.nextLine(); // for the sentence
+        sc.close();
         System.out.println(name2);
         System.out.println(about2);
     }
