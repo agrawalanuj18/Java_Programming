@@ -1,3 +1,6 @@
+import java.net.SocketImpl;
+import java.util.Scanner;
+
 public class FactorialNum {
 
     public static void CalculateFact(int n, int i, int Fact) {
@@ -10,6 +13,9 @@ public class FactorialNum {
     }
 
     public static void main(String[] args) {
-        CalculateFact(5, 1, 1);
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number for calculating its factorial:- ");
+        int n = sc.nextInt();
+        CalculateFact(n, 1, 1);
     }
 }
