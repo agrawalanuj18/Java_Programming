@@ -7,6 +7,9 @@ class Solution {
              // if n is postive
         else{
             return pow(x, n);
+
+
+            
         }
     }
     public double pow(double x, int n){
