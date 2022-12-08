@@ -4,11 +4,7 @@ Java is a high-level, class-based, object-oriented programming language that is 
 
 	- Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
 
-	- It is one of the most popular programming language in the world
-	
 	- It is open-source and free
-	
-	- It is secure, fast and powerful
 	
 	- It has a huge community support (tens of millions of developers)
 	
