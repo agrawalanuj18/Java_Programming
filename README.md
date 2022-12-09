@@ -8,5 +8,3 @@ Java is a high-level, class-based, object-oriented programming language that is 
 	
 	- It has a huge community support (tens of millions of developers)
 	
-	- Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
-	
