@@ -5,4 +5,4 @@ Java is a high-level, class-based, object-oriented programming language that is 
 	
 	- It has a huge community support (tens of millions of developers)
 	
-        - It has a huge community support
+        - DSA
